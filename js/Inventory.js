@@ -14,3 +14,4 @@ var inventory = new Array();
 
 // Example of adding an item
 inventory["B01"] = new Item("B01","Beer",6.99);
+inventory["B02"] = new Item("B02","Chips",2.99);
