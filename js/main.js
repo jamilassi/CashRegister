@@ -10,5 +10,10 @@ function init(){
     console.log("Started...");
     
     var register = new CashRegister();
+}
 
+function foo(){
+	
+	console.log("Hello World!");
+	
 }
